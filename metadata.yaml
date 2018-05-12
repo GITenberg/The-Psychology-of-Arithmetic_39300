@@ -1,0 +1,39 @@
+_repo: The-Psychology-of-Arithmetic_39300
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thorndike, Edward L. (Edward Lee)
+    aliases:
+    - Thorndike, Edward Lee
+    - Thorndike, E. L. (Edward Lee)
+    birthdate: 1874
+    deathdate: 1949
+    gutenberg_agent_id: '33314'
+    url: http://www.gutenberg.org/2009/agents/33314
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Thorndike
+description: '"This book presents the applications of this newer dynamic psychology
+  to the teaching of arithmetic. Its contents are substantially what have been included
+  in a course of lectures on the psychology of the elementary school subjects given
+  by the author for some years to students of elementary education at Teachers College.
+  Many of these former students, now in supervisory charge of elementary schools,
+  have urged that these lectures be made available to teachers in general. So they
+  are now published in spite of the author''s desire to clarify and reinforce certain
+  matters by further researches"--Preface. (PsycINFO Database Record (c) 2006 APA,
+  all rights reserved).'
+gutenberg_issued: '2012-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39300'
+  lccn: '22001968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arithmetic -- Study and teaching'
+- !lcc 'QA'
+title: The Psychology of Arithmetic
+url: http://www.gutenberg.org/ebooks/39300
